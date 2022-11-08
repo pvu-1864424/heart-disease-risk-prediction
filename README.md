@@ -33,6 +33,8 @@ There are 14 attributes describing each of 303 studies in the dataset. The data 
 
 For our machine learning models, we will use the column “class att” as the label. Note that “class att” indicates a healthy individual with “H” and at-risk individual with “S1”, “S2”, “S3”, and  “S4”.
 
+Here is the link to the original Research Paper: [Improving the accuracy of prediction of heart disease risk based on ensemble classification techniques](https://www.sciencedirect.com/science/article/pii/S235291481830217X#bib22)
+
 ## Methodology:
 1. Determine the best algorithm
 
@@ -90,5 +92,11 @@ For our machine learning models, we will use the column “class att” as the l
     - Finish writing report of the result by March 13th
     - Finish preparing materials and practicing for in-class presentation by March 19th
 
-### Questions(optional):
-How can we convert the .mod or .data file into .csv one?
+## Project Presentation
+Presentation Powerpoint: [Final Presentation](https://github.com/pvu-1864424/heart-disease-risk-prediction/blob/8a13471a52fbd2a85e57efc888203bc6ca314b3e/Project%20Presentation.pptx)
+
+Presentation Video: [Predicting an Individual's Risk of Heart Disease](https://www.youtube.com/watch?v=bcjNuW77Uds)
+<br />
+
+## Final Report
+Project results are available in our Final Report! Access the report [here](https://github.com/pvu-1864424/heart-disease-risk-prediction/blob/8a13471a52fbd2a85e57efc888203bc6ca314b3e/Final%20Report.pdf)
