@@ -3,7 +3,8 @@ Authors: Phuong Vu, Yunwei Liang, Trinh Nguyen
 
 ## Summary of Research Questions
 
-Which machine learning algorithm can best predict the risk of heart disease?
+### **Which machine learning algorithm can best predict the risk of heart disease?**
+
 We will compare the accuracy of different supervised machine learning algorithms for predicting the risk of heart disease and find the algorithm with the highest accuracy. We will be using the Decision Tree Classifier, the Random Forest Classifier, and the Gaussian Naive Bayes Classifier. We will be including all patients’ characteristics in the features of the machine learning model. Our models will predict the risk of a patient having heart disease. We will compare our models with the accuracy score of each model.
 
 ## **Which certain sets of features are better indicators of the high risk of heart disease than the other sets of features?**
