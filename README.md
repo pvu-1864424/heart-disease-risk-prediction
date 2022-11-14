@@ -103,4 +103,4 @@ Presentation Video: [Predicting an Individual's Risk of Heart Disease](https://w
 Project results are available in our Final Report! Access the report [here](https://github.com/pvu-1864424/heart-disease-risk-prediction/blob/8a13471a52fbd2a85e57efc888203bc6ca314b3e/Final%20Report.pdf)
 <br />
 
-*Copyrights: This project is a project for CSE163: Intermediate Data Programming course. If you have any questions or feedback regarding this website, please let us know at [Phuong's email](mailto:prokhanhphuong@gmail.com)* 
+*Copyrights: This project is a project for CSE163: Intermediate Data Programming course. If you have any questions or feedback regarding this project, please let us know at [Phuong's email](mailto:prokhanhphuong@gmail.com)* 
